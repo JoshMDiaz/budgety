@@ -5,7 +5,7 @@ import BalanceForm from '@/components/BalanceForm'
 import MyDreams from '@/components/MyDreams'
 import FinancialTip from '@/components/FinancialTip'
 import BudgetyLogo from '@/components/BudgetyLogo'
-import { BalanceProvider, useBalance } from '@/contexts/BalanceContext'
+import { BalanceProvider } from '@/contexts/BalanceContext'
 import { Toaster } from '@/components/ui/toaster'
 // import DemoButton from '@/components/DemoButton'
 
